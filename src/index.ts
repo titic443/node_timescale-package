@@ -1,3 +1,3 @@
-import { ???? } from "./function";
+import { TimeScaleSequalize } from "./function";
 
-export { ???? };
+export { TimeScaleSequalize };
